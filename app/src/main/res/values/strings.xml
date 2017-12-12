@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lecture13-CustomView</string>
+
+    <string name="match_parent">Match Parent</string>
+    <string name="wrap_content">Wrap Content</string>
+
+</resources>
